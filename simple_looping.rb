@@ -13,9 +13,9 @@ def loop_iterator(number_of_times)
 loop do
   track = counter + 1
   puts phrase
-  break
+end
   if track >= number_of_times
-  end
+    break
 end
 end
 
