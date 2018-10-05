@@ -15,7 +15,6 @@ loop do
   puts phrase
 end
   if track >= number_of_times
-    break
 end
 end
 
